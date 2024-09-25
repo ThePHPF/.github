@@ -22,6 +22,10 @@ Inquire about other ways to contribute: email contact at thephp.foundation.
 <a href="https://www.sovereigntechfund.de/"><img src="https://thephp.foundation/assets/icons/STF-Logo-Std-Black-RGB.svg" height="80"></a> 
 
 
-[**Become a Sponsor**](https://thephp.foundation/sponsor/)
+<a href="[https://opencollective.com/bagisto/contribute/sponsor-7372/checkout](https://opencollective.com/phpfoundation/contribute/gold-sponsor-68774/checkout)">
+    <img src="https://images.opencollective.com/static/images/become_sponsor.svg">
+</a>
+
+[**Learn about sponsorship opportunities**](https://thephp.foundation/sponsor/)
 
 
