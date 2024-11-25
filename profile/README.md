@@ -19,7 +19,7 @@ Inquire about other ways to contribute: email contact at thephp.foundation.
 
 <a href="https://jetbrains.com/"><img src="https://github.com/user-attachments/assets/57ee9c29-08c3-4050-bdc4-f3ecd2a31cfd" height="80"></a> 
 <a href="https://automattic.com/"><img src="https://automattic.files.wordpress.com/2019/06/automattic-logo-color-cmyk.png" height="80"></a> 
-<a href="https://www.sovereigntechfund.de/"><img src="https://thephp.foundation/assets/icons/STF-Logo-Std-Black-RGB.svg" height="80"></a> 
+<a href="https://www.sovereigntechfund.de/"><img src="https://thephp.foundation/assets/sponsors/STF-Logo-Std-Black-RGB.svg" height="80"></a> 
 
 
 <a href="[https://opencollective.com/bagisto/contribute/sponsor-7372/checkout](https://opencollective.com/phpfoundation/contribute/gold-sponsor-68774/checkout)">
